@@ -34,8 +34,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ### 🏆 Certifications
 
-- AWS Certified Solutions Architect - Associate
-  https://www.credly.com/badges/77fc8da9-3282-49f8-a2e9-4c4ea9066c67
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/77fc8da9-3282-49f8-a2e9-4c4ea9066c67)
 
 ### 🎖️ Badges
 
@@ -45,4 +44,5 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ### 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=lordmilan)](https://git.io/streak-stats)
+
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
