@@ -19,15 +19,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 - **Scripting**: Bash, Python
 - **Version Control**: Git, GitHub, Codecommit
 
-### 🌱 I'm currently learning
-
-- Infrastructure as Code with terragrunt and AWS EKS
-
-### 👯 I'm looking to collaborate on
-
-- Open-source projects related to DevOps, cloud-native technologies, and automation
-- Building scalable and highly available systems
-
 ### 📫 How to reach me
 
 - https://milanmahat.com.np
