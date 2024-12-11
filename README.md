@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 ### 🏆 Certifications
 
 - AWS Certified Solutions Architect - Associate
+  https://www.credly.com/badges/77fc8da9-3282-49f8-a2e9-4c4ea9066c67
 
 ### 🎖️ Badges
 
