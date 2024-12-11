@@ -43,6 +43,5 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 ![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
 
 ### 📊 GitHub Stats
-[GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=lordmilan)
-
+<p><img align="center" src="https://git-hub-streak-stats.vercel.app/?user=lordmilan&" alt="Milan Mahat" /></p>
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
