@@ -43,8 +43,5 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 ![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordmilan&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=lordmilan)](https://git.io/streak-stats)
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordmilan&" alt="lordmilan" /></p>
