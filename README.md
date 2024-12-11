@@ -28,6 +28,6 @@
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikita1610&show_icons=true&locale=en&hide_border=true" alt="nikita" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikita1610&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordmilan&show_icons=true&locale=en" alt="milan" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordmilan&show_icons=true&locale=en&layout=compact&langs_count=7" alt="manumanoj0010"/>
 </details>
