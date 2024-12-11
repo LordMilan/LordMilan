@@ -1,40 +1,50 @@
- <h1 align="center">Milan Mahat�</h1>
+### Hi there! I'm Milan Mahat 👋
 
-<!-- ![](https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966 "Link to gif")
--->
+## DevOps Engineer | AWS Certified | IaC Enthusiast
 
-<img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /> 
+Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
-### I am a DevOps Engineer
-- 🔭 I’m currently working on improving myself! :grin:
-- 🐍 I’m currently learning more on optimizing microservice efficiency
-- 💬 Ask me about anything, I am happy to help :smile:
+### Tech Stack
+[![GitHub mhmdio](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![GitHub mhmdio](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
+[![GitHub mhmdio](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 
+### 🔧 Technologies and Tools
 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/milanmahat/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:milan.mahat.739@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
+- **Cloud**: AWS, Azure
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions, CodePipeline
+- **IAC & Configuration Management**: Ansible, Terraform, Terragrunt
+- **Monitoring**: Prometheus, Grafana, Cloudwatch
+- **Scripting**: Bash, Python
+- **Version Control**: Git, GitHub, Codecommit
 
-<h2> 🛠 &nbsp;My Tech Stack</h2>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s" alt="AWS" width="50" height="50" title="AWS"/> </a>&nbsp;
-<a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/220px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="50" height="50" title="GitHub"/> </a>&nbsp;
-<a href="https://about.gitlab.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/512px-GitLab_logo.svg.png" alt="GitLab" width="50" height="50" title="GitLab"/> </a>&nbsp;
-<a href="https://bitbucket.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/BitBucket_SVG_Logo.svg/250px-BitBucket_SVG_Logo.svg.png" alt="Bitbucket" width="50" height="50" title="Bitbucket"/> </a>&nbsp;
-<a href="https://azure.microsoft.com/" target="_blank"> <img src="images/azure.png" alt="Azure" width="50" height="50" title="Azure"/> </a>&nbsp;
-<a href="https://serverless.com/" target="_blank"> <img src="images/serverless.png" alt="Serverless" width="50" height="50" title="Serverless"/> </a>&nbsp;
-<a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="Python" width="50" height="50" title="Python"/> </a>&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="images/bash.png" alt="Bash" width="50" height="50" title="Bash"/> </a>&nbsp;
-<a href="https://yaml.org/" target="_blank"> <img src="images/yaml.png" alt="YAML" width="50" height="50" title="YAML"/> </a>&nbsp;
-<a href="https://www.docker.com/" target="_blank"> <img src="images/docker.png" alt="Docker" width="50" height="50" title="Docker"/> </a>
+### 🌱 I'm currently learning
 
+- Infrastructure as Code with CDK, CDKTF, and Pulumi
 
- 
-<h2>ℹ️ &nbsp;Github Info</h2>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+### 👯 I'm looking to collaborate on
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordmilan&show_icons=true&locale=en" alt="milan" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordmilan&show_icons=true&locale=en&layout=compact&langs_count=7" alt="manumanoj0010"/>
-</details>
+- Open-source projects related to DevOps, cloud-native technologies, and automation
+- Building scalable and highly available systems
+
+### 📫 How to reach me
+
+- https://milanmahat.com.np
+
+### 🏆 Certifications
+
+- AWS Certified Solutions Architect - Associate
+
+### 🎖️ Badges
+
+![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge)
+![Docker Lover](https://img.shields.io/badge/Docker-Lover-2496ED?style=for-the-badge)
+![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordmilan&show_icons=true&theme=radical)
+
+Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lordmilan&" alt="lordmilan" /></p>
