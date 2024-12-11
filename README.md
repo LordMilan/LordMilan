@@ -19,9 +19,9 @@
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s" alt="AWS" width="50" height="50" title="AWS"/> </a>&nbsp;
-<a href="https://github.com/" target="_blank"> <img src="images/github.png" alt="GitHub" width="50" height="50" title="GitHub"/> </a>&nbsp;
-<a href="https://about.gitlab.com/" target="_blank"> <img src="images/gitlab.png" alt="GitLab" width="50" height="50" title="GitLab"/> </a>&nbsp;
-<a href="https://bitbucket.org/" target="_blank"> <img src="images/bitbucket.png" alt="Bitbucket" width="50" height="50" title="Bitbucket"/> </a>&nbsp;
+<a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/220px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="50" height="50" title="GitHub"/> </a>&nbsp;
+<a href="https://about.gitlab.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/512px-GitLab_logo.svg.png" alt="GitLab" width="50" height="50" title="GitLab"/> </a>&nbsp;
+<a href="https://bitbucket.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/BitBucket_SVG_Logo.svg/250px-BitBucket_SVG_Logo.svg.png" alt="Bitbucket" width="50" height="50" title="Bitbucket"/> </a>&nbsp;
 <a href="https://azure.microsoft.com/" target="_blank"> <img src="images/azure.png" alt="Azure" width="50" height="50" title="Azure"/> </a>&nbsp;
 <a href="https://serverless.com/" target="_blank"> <img src="images/serverless.png" alt="Serverless" width="50" height="50" title="Serverless"/> </a>&nbsp;
 <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="Python" width="50" height="50" title="Python"/> </a>&nbsp;
