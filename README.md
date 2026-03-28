@@ -46,8 +46,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
   [![EV News
   Nepal](https://img.shields.io/badge/EV_News_Nepal-Visit_Site-2563eb?style=for-the-badge)](https://evnewsnepal.com)
-  [![EV Statistics](https://img.shields.io/badge/EV_Statistics-Nepal_2026-059669?style=for-the-badge)](https://evnewsnep
-  al.com/ev-statistics-nepal)
+  [![EV Statistics](https://img.shields.io/badge/EV_Statistics-Nepal_2026-059669?style=for-the-badge)](https://evnewsnepal.com/ev-statistics-nepal)
 
 
 ### 📊 GitHub Stats
