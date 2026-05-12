@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ### 📫 How to reach me
 
-- https://milanmahat.com.np
+- https://milanmahat.com.np, devmilanmahat@gmail.com, +9779860485417 (I prefer texts)
 
 ### 🏆 Certifications
 
@@ -50,5 +50,4 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
   [![EV Statistics](https://img.shields.io/badge/EV_Statistics-Nepal_2026-059669?style=for-the-badge)](https://evnewsnepal.com/ev-statistics-nepal)
 
 
-### 📊 GitHub Stats
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
