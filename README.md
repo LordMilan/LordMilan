@@ -39,9 +39,10 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
   I built [**EV News Nepal**](https://evnewsnepal.com) — Nepal's leading electric vehicle platform for comparing EVs,
   tracking prices, and browsing used EV listings.
 
-  - **200+ EVs** from 50+ brands with real-time pricing
+  - **15000+ Monthly Users, 200+ New EVs** from 50+ brands 
   - AI-powered comparison, EMI calculator, and charging station map
   - Used EV marketplace with seller verification
+  - Trip planner, resale value, depreciation data and many more
   - **Tech:** Next.js 15, FastAPI, MongoDB, AWS
 
   [![EV News
@@ -50,5 +51,4 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 
 ### 📊 GitHub Stats
-<p><img align="center" src="https://git-hub-streak-stats.vercel.app/?user=lordmilan&" alt="Milan Mahat" /></p>
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
